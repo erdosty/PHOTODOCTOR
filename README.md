@@ -8,5 +8,8 @@ PHOTODOCTOR project has received funding from the European Union’s Horizon 202
 
 You could find all related documentation about the project in these websites:
 
-Github:
-Zenodo:
+-	EDMOND: https://doi.org/10.17617/3.J0N7UW
+
+-	GitHub: https://github.com/erdosty/PHOTODOCTOR 
+
+-	Zenodo: https://zenodo.org/deposit/7769863 
